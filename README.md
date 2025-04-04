@@ -60,8 +60,7 @@
         <img src="https://img.shields.io/badge/Logstash-DAA520.svg?style=for-the-badge&logo=logstash&logoColor=white" />
         <img src="https://img.shields.io/badge/Kibana-DC143C.svg?style=for-the-badge&logo=kibana&logoColor=white" />
         <img src="https://img.shields.io/badge/Hadoop-66CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white" />
-        
+        <img src="https://img.shields.io/badge/Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white" />  
       </td>
     </tr>
     <tr>
