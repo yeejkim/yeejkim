@@ -56,12 +56,12 @@
     <tr>
       <td><strong>Data Engineering / Analytics</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/Hadoop-66CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=white" />
         <img src="https://img.shields.io/badge/Elasticsearch-2E8B57.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" />
         <img src="https://img.shields.io/badge/Logstash-DAA520.svg?style=for-the-badge&logo=logstash&logoColor=white" />
         <img src="https://img.shields.io/badge/Kibana-DC143C.svg?style=for-the-badge&logo=kibana&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hadoop-66CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=white" />
         <img src="https://img.shields.io/badge/Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+        
       </td>
     </tr>
     <tr>
@@ -103,7 +103,6 @@
       <td><strong>Version Control & Collaboration</strong></td>
       <td>
         <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
         <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
         <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />
         <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
